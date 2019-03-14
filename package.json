@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "@valudio/react-native-wheel-picker@1.2.1",
+      "/Users/gonzalo/Documents/Valudio/amb-bod"
+    ]
+  ],
+  "_from": "@valudio/react-native-wheel-picker@1.2.1",
+  "_id": "@valudio/react-native-wheel-picker@1.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-ZG3JDkqXOcHFli2liE7FUNyrQEQQaYp9KdkYkF07sO+eqvpw7E/n3Nma9igxvwr02mKrnzWsB11Bcuahout+OA==",
+  "_location": "/@valudio/react-native-wheel-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@valudio/react-native-wheel-picker@1.2.1",
+    "name": "@valudio/react-native-wheel-picker",
+    "escapedName": "@valudio%2freact-native-wheel-picker",
+    "scope": "@valudio",
+    "rawSpec": "1.2.1",
+    "saveSpec": null,
+    "fetchSpec": "1.2.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://npm.valudio.com/@valudio%2freact-native-wheel-picker/-/react-native-wheel-picker-1.2.1.tgz",
+  "_spec": "1.2.1",
+  "_where": "/Users/gonzalo/Documents/Valudio/amb-bod",
+  "author": {
+    "name": "Yu Zheng"
+  },
+  "bugs": {
+    "url": "https://github.com/valudio/react-native-wheel-picker/issues"
+  },
+  "dependencies": {},
+  "description": "React native cross platform picker.",
+  "homepage": "https://github.com/valudio/react-native-wheel-picker#readme",
+  "keywords": [
+    "react-native",
+    "picker",
+    "wheel"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@valudio/react-native-wheel-picker",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valudio/react-native-wheel-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
+}
